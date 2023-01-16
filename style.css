@@ -138,8 +138,8 @@ label:has(+ input[type='checkbox']:checked) >img{
 	}
 	.card {
 		padding: 0;
-		height: 35rem;
-		max-width: 1100px;
+		height: 34rem;
+		max-width: 65rem;
 	}
 	.card-image {
 		width: 50%;
